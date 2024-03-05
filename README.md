@@ -8,8 +8,7 @@ Let's connect:
 	<img alt="Instagram" src="images/instagram.webp" target="_new" width="40"/>
 	</a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/elon%C3%AB-krasniqi-105155274/">
-	<img alt="LinkedIn" src="images/linkedin.webp" target="_new" width="40"/>
+<a href="https://www.linkedin.com/in/elon%C3%AB-krasniqi-105155274/"><img alt="LinkedIn" src="images/linkedin.webp" target="_new" width="39"/>
 	</a>
 &nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100081740167734">
