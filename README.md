@@ -1,6 +1,6 @@
 ### Hi there, I'm Elonë Krasnniqi
 
-- I'm currently studying computer and software engineering.
+- Currently studying computer and software engineering.
 
 Let's connect: 
 
