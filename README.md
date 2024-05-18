@@ -5,6 +5,7 @@ font=Righteous&size=28&center=true&vCenter=true&width=500&height=70&duration=500
 
 <img align="right" alt="girl" width="100" src="gif.gif">
 <h4> Currently studying computer and software engineering.</h4>
+
 Let's connect:
 
 <a href="https://www.instagram.com/eloonakrasniqi/?next=%2F">
