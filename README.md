@@ -1,6 +1,8 @@
-<h1 align="left"><img src="https://readme-typing-svg.herokuapp.com/?
-font=Righteous&size=28&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+there,+ I'm+Elonë+Krasniqi;" />
+<h1 align="left">
+<img src="https://readme-typing-svg.herokuapp.com/?
+font=Righteous&size=28&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+there,+ I'm+Elonë+Krasniqi;"/>
 </h1>
+
 <img align="right" alt="girl" width="100" src="gif.gif">
 <h4> Currently studying computer and software engineering.</h4>
 Let's connect:
