@@ -2,18 +2,12 @@
 </h1>
 
 <img align="right" alt="girl" width="100" src="gif.gif">
-Currently studying computer and software engineering.
+Passionate about software development.
 
-Let's connect:
-
-<a href="https://www.instagram.com/eloonakrasniqi/?next=%2F">
-	<img alt="Instagram" src="images/instagram.webp" target="_new" width="30"/>
-	</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/elon%C3%AB-krasniqi-105155274/"><img alt="LinkedIn" src="images/linkedin.webp" target="_new" width="29"/>
-	</a>
-&nbsp;&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100081740167734">
-	<img alt="Facebook" src="images/facebook.webp" target="_new" width="30"/>
-	</a>
-&nbsp;&nbsp;
+<h3>Let's connect:</h3>
+<p>
+  <a href="https://www.linkedin.com/in/elon%C3%AB-krasniqi-105155274/" target="_blank">
+    <img alt="LinkedIn" src="images/linkedin.webp" width="30"/>
+  </a>
+  &nbsp;&nbsp;
+</p>
